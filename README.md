@@ -1,4 +1,4 @@
-# VR-Music-Visualizer
+# VR Music Visualizer
 
 ### About ###
 This is a virtual reality music visualizer made with Processing for the Oculus Rift DK2.
