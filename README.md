@@ -19,6 +19,7 @@ This is a virtual reality music visualizer made with Processing for the Oculus R
 - Press the backspace key to exit a simulation and return to the menu
 
 ### Notes ###
-- We ran the program successfully on a Macbook using El Capitan v10.11.5 beta, Processing 3.0.2, and Oculus Runtime V0.5.0.1-beta.
+- The program was successfully tested on a Macbook using El Capitan v10.11.5 beta, Processing 3.0.2, and Oculus Runtime V0.5.0.1-beta.
 - The files that we created/edited are SceneRenderer.pde and VRProject.pde
-- OculusRift.pde is a library we used. Cube.pde is not used
+- OculusRift.pde is an open source library we used. Cube.pde is not used
+- This project was created in collaboration with Alec Decker
